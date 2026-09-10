@@ -47,3 +47,7 @@ Thumbs.db
 .vscode/
 .idea/
 *.code-workspace
+
+# `make install` output when PREFIX is the repo root (the default $HOME/conquerv5)
+/bin/
+/share/
